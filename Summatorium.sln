@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication4", "ConsoleApplication4\ConsoleApplication4.csproj", "{B726B6B9-310B-4689-92EE-14081E1B432A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Summatorium", "Summatorium\Summatorium.csproj", "{B726B6B9-310B-4689-92EE-14081E1B432A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0ED167D9-E0F7-45FC-A25E-35DBA7F3A90C}"
 	ProjectSection(SolutionItems) = preProject
